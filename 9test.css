@@ -1,0 +1,58 @@
+#todolist {
+    padding: 40px  ;
+    padding-left: 100px;
+    background-color: #26A743;
+    font-family:'Courier New', Courier, monospace
+}
+#addelement {
+    height:20px;
+    width:400px;
+}
+#button {
+    color: white;
+    background-color: black;
+}
+#addtask {
+    padding-left: 100px;
+    padding: 20px;
+    width: 80%;
+ }
+.html{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 20px;
+}
+.html2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 3px;
+    font-size: 20px;
+}
+.edit1{
+    margin-left: 81%;
+    border: none;
+    background-color:green;
+    color: white;
+    font-size: 20px;
+}
+.edit2{
+    border: none;
+    margin-left: 82.5%;
+    background-color:green;
+    color: white;
+    font-size: 20px;
+}
+.edit3{
+    border: none;
+    margin-left: 78.5%;
+    background-color:green;
+    color: white;
+    font-size: 20px;
+}
+.delete{
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
